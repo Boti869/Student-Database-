@@ -1,0 +1,9 @@
+==========STUDENT RECORD==========
+Name: Dylan Doe
+ID: 91629422232
+Class: 11.A
+Age: 17
+Phone:  +1 888 8888
+Email: leavemealone@midnight.com
+Address: Main st. 260 New York, NY
+gender: M
